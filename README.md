@@ -51,10 +51,10 @@ Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 boo
 ## Data Preparation 
 The first step is to import the necessary library and load the dataset.
 
-![image](https://github.com/Art1star/Data_Visualization_Story_Telling/assets/70962598/343cb089-eee4-476a-b112-c26bdf5adcee)
+![image](https://github.com/Art1star/Data_Visualization_Storytelling/assets/70962598/24b6fe48-bf9d-4c2b-a0e4-9277b4b56f51)
 
 ## Data Cleansing
-![image](https://github.com/Art1star/Data_Visualization_Story_Telling/assets/70962598/17f15a39-4956-471c-a96a-1fb0e09d196e)
+![image](https://github.com/Art1star/Data_Visualization_Storytelling/assets/70962598/68297357-d28b-4783-aefa-16035ddc9c9c)
 
 The data is clean, with correct data types, and free from missing values and duplicates.
 
