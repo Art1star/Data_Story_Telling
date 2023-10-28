@@ -60,13 +60,15 @@ The data is clean, with correct data types, and free from missing values and dup
 
 ## Exploratory Data Analysis & Data Visualization
 ### Genre of the bestseller books
+
 ![image](https://github.com/Art1star/Data_Visualization_Story_Telling/assets/70962598/f5eb5338-6598-47c0-9d40-f3691555d69d)
 
 ![image](https://github.com/Art1star/Data_Visualization_Story_Telling/assets/70962598/34df8bc5-54c1-48a2-9ea9-f9f66cc973fe)
 
 Based on the data, Non-fiction books dominate the reviewed book category, representing a substantial 56% share, while fiction books make up the remaining 44% of the reviewed books. This suggests that non-fiction literature tends to generate more reader engagement and feedback compared to their fictional counterparts.
 
-Distribution Of User Rating For Books
+### Distribution Of User Rating For Books
+
 ![image](https://github.com/Art1star/Data_Visualization_Story_Telling/assets/70962598/c84ddcf4-95a4-4f7a-b97f-3e8d25f602d0)
 
 ![image](https://github.com/Art1star/Data_Visualization_Storytelling/assets/70962598/d9f4928c-d48f-448e-a786-ce492b0773f3)
@@ -74,6 +76,7 @@ Distribution Of User Rating For Books
 In this dataset of 550 book user ratings, we can observe rating distribution on a scale from 0 to 5. The most common rating is 4.8, which accounts for approximately 23% of all ratings. Following closely, ratings of 4.7 and 4.6 are also quite popular, making up about 19.6% and 19.1% of all ratings, respectively. This insight provides a clear picture of the distribution of user ratings in the dataset over 81.7% of ratings are 4.5 or higher, indicating that users have positively rated majority of books in the dataset.
 
 ### Top 5 Author Who Wrote Most Of Bestseller Books
+
 ![image](https://github.com/Art1star/Data_Visualization_Storytelling/assets/70962598/2ab0e4e6-3f57-42a4-b39a-7b035347ca1b)
 
 ![image](https://github.com/Art1star/Data_Visualization_Storytelling/assets/70962598/696209ea-ea04-43dc-9e38-5549f6711e1e)
@@ -81,6 +84,7 @@ In this dataset of 550 book user ratings, we can observe rating distribution on 
 Based on the data for the top 10 authors with multiple book publications, we find that Jeff Kinney leads the list with 2.2%. Gary Chapman, Suzanne Collins, and Rick Riordan are in the same tier, each with 2% of the total books published. This suggests that Jeff Kinney may be a favorite among readers.
 
 ### Distribution Of Reviews Over The Years
+
 ![image](https://github.com/Art1star/Data_Visualization_Storytelling/assets/70962598/c03ce7a7-fab7-4c79-a855-4a775af6a319)
 
 ![image](https://github.com/Art1star/Data_Visualization_Storytelling/assets/70962598/1018c638-7167-46b7-956b-a1836650f63b)
@@ -90,6 +94,7 @@ Looking at the distribution data above, we observe that in 2015, the fiction gen
 In contrast, the non-fiction genre peaked in 2018 with 5.4% of total reviews and remained steady at 5.1% in 2019. Nevertheless, it still lags behind the fiction genre regarding the total reviews.
 
 ### Total Profit by Genre Over the Years
+
 ![image](https://github.com/Art1star/Data_Visualization_Story_Telling/assets/70962598/234ba437-1957-4a2c-a2a0-d7a449d80bbb)
 
 ![image](https://github.com/Art1star/Data_Visualization_Story_Telling/assets/70962598/e11781c9-2890-4879-8692-5794ae29301d)
